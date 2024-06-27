@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blanchedalmond;
+}
+
+.container{
+    border-radius: 30px;
+    border: double 3px;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(251, 253, 253);
+}
+
+input{
+    background-color: rgb(251, 253, 253);
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.lupa{
+    background: url("../imagens/png-transparent-magnifying-glass-magnification-magnifying-glass-glass-logo-light-removebg-preview.png") center center no-repeat;
+    background-size: cover;
+    width: 100px;
+}
+
