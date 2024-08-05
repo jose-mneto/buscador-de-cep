@@ -15,6 +15,6 @@ async function buscarDadosCep(cep){
     <p>Logradouro: ${retorno.logradouro}</p>
     <p>Bairro: ${retorno.bairro}</p>
     <p>Cidade: ${retorno.localidade}</p>
-    <p>Bairro: ${retorno.uf}</p>
+    <p>Estado: ${retorno.uf}</p>
     `
 }
